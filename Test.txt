@@ -1,1 +1,3 @@
-Test add Data
+Test add Data to GitHub
+
+Hello, Word! It's me Weerapat Phutthamongkhon 013, Lucky Number <3
