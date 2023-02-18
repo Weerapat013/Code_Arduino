@@ -2,4 +2,6 @@ Test add Data to GitHub
 
 Hello, Word! It's me Weerapat Phutthamongkhon 013, Lucky Number <3
 
-Config by Weerapat Phutthamongkhon 013, 18/02/2023
+Config by   Weerapat  Phutthamongkhon   013
+    and     Boorapa   Chaenarom         007
+    date    18/02/2023
